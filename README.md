@@ -1,5 +1,8 @@
-## Ex. No: 5  VLAN Configuration Using a Managed Switch
-Date:
+## Ex. No: 5  VLAN Configuration Using a Man3
+
+# NAME:SHOBANA.B
+# REGNO:212224230262
+
 ________________________________________
 # Objective
 To configure Virtual Local Area Networks (VLANs) on a managed switch and verify that hosts within the same VLAN can communicate while others cannot.
@@ -64,6 +67,11 @@ ________________________________________
 •	PC IP settings<br>
 •	Successful ping between PCs in the same VLAN<br>
 •	Failed ping between PCs in different VLANs<br>
+# <img width="1914" height="1068" alt="Screenshot 2026-01-30 112656" src="https://github.com/user-attachments/assets/ad69c6af-1276-4eed-9800-4d584c6c98b2" />
+# <img width="1915" height="944" alt="Screenshot 2026-01-30 112807" src="https://github.com/user-attachments/assets/f810adaf-2df6-49e8-ba49-d99b1cc697cb" />
+# <img width="1908" height="1087" alt="Screenshot 2026-01-30 113020" src="https://github.com/user-attachments/assets/7857481c-08c6-4403-8298-6e95adf4b606" />
+# <img width="1909" height="1078" alt="Screenshot 2026-02-04 080735" src="https://github.com/user-attachments/assets/a9cb0200-41c1-4b3c-9352-fbfb907ad55a" />
+
 ________________________________________
 # Result
 Successfully created and configured VLANs on a managed switch. Verified that only PCs within the same VLAN could communicate with each other.
